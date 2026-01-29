@@ -13,7 +13,7 @@ card.className = "card";
 card.id = `product-${p.id}`;
 
 
-    const productLink = `https://duman0619.github.io/luno-flower/#product-${p.id}`;
+    const productLink = `https://duman0619.github.io/luno-flower/product.html?id=${p.id}`;
 
 const waText = `
 Здравствуйте! Хочу заказать:
