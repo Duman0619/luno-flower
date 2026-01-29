@@ -26,24 +26,24 @@ const products = [
   {
     id: 4,
     name: "Flower Subscription 3",
-    desc: "Подписка на цветы",
-    price: 35000,
+    desc: "Подписка на цвет7ы",
+    price: 356000,
     image: "images/flower4.jpeg",
     type: "subscription"
   }
 {
     id: 5,
     name: "Flower Subscription 5",
-    desc: "Подписка на цветы",
-    price: 35000,
+    desc: "Подписка на цвет8ы",
+    price: 3598000,
     image: "images/flower5.jpeg",
     type: "subscription"
   }
 {
     id: 6,
     name: "Flower Subscription 6",
-    desc: "Подписка на цветы",
-    price: 35000,
+    desc: "Подписка на цвет9ы",
+    price: 359000,
     image: "images/flower6.jpeg",
     type: "subscription"
   }
