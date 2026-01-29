@@ -13,15 +13,29 @@ card.className = "card";
 card.id = `product-${p.id}`;
 
 
-    card.innerHTML = `
-      <img src="${p.image}">
-      <h3>${p.name}</h3>
-      <p>${p.desc}</p>
-      <div class="price">${p.price.toLocaleString()} ₸</div>
-      <a class="btn" href="https://wa.me/77087514281?text=Хочу заказать: ${p.name}">
-        Заказать
-      </a>
-    `;
+    const productLink = `https://duman0619.github.io/luno-flower/#product-${p.id}`;
+
+const waText = `
+Здравствуйте! Хочу заказать:
+
+🌸 ${p.name}
+💰 ${p.price.toLocaleString()} ₸
+📝 ${p.desc}
+
+Ссылка на букет:
+${productLink}
+`;
+
+const waUrl = `https://wa.me/77087514281?text=${encodeURIComponent(waText)}`;
+
+card.innerHTML = `
+  <img src="${p.image}">
+  <h3>${p.name}</h3>
+  <p>${p.desc}</p>
+  <span class="price">${p.price.toLocaleString()} ₸</span>
+  <a class="btn" href="${waUrl}" target="_blank">Заказать</a>
+`;
+
 
     catalog.appendChild(card);
   });
