@@ -4,7 +4,7 @@ const products = [
     name: "Rose Box Mini",
     desc: "Нежная композиция в коробке",
     price: 12000,
-    image: "images/flower1.jpg",
+    image: "images/flower1.jpeg",
     type: "box"
   },
   {
@@ -12,7 +12,7 @@ const products = [
     name: "LUNO Signature",
     desc: "Авторский бокс от флориста",
     price: 18000,
-    image: "images/flower2.jpg",
+    image: "images/flower2.jpeg",
     type: "box"
   },
   {
@@ -20,7 +20,7 @@ const products = [
     name: "Flower Subscription",
     desc: "Подписка на цветы",
     price: 35000,
-    image: "images/flower3.jpg",
+    image: "images/flower3.jpeg",
     type: "subscription"
   },
   {
@@ -28,7 +28,7 @@ const products = [
     name: "White Pearl",
     desc: "Белоснежный букет",
     price: 15000,
-    image: "images/flower4.jpg",
+    image: "images/flower4.jpeg",
     type: "bouquet"
   },
   {
@@ -36,7 +36,7 @@ const products = [
     name: "Pink Dream",
     desc: "Розовая нежность",
     price: 17000,
-    image: "images/flower5.jpg",
+    image: "images/flower5.jpeg",
     type: "bouquet"
   },
   {
@@ -44,7 +44,7 @@ const products = [
     name: "Blue Sky",
     desc: "Голубая композиция",
     price: 16000,
-    image: "images/flower6.jpg",
+    image: "images/flower6.jpeg",
     type: "bouquet"
   },
   {
