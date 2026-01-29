@@ -2,26 +2,25 @@ const products = [
   {
     id: 1,
     name: "Rose Box Mini",
+    desc: "Нежная композиция",
     price: 12000,
-    type: "box",
     image: "images/flower1.jpg",
-    desc: "Нежная композиция в коробке"
+    type: "box"
   },
   {
     id: 2,
     name: "LUNO Signature",
+    desc: "Авторский бокс",
     price: 18000,
-    type: "box",
     image: "images/flower2.jpg",
-    desc: "Авторский бокс от флориста"
+    type: "box"
   },
   {
     id: 3,
     name: "Flower Subscription",
+    desc: "Подписка на цветы",
     price: 35000,
-    type: "subscription",
     image: "images/flower3.jpg",
-    desc: "Подписка на цветы"
+    type: "subscription"
   }
 ];
-
