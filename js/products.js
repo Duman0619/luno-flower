@@ -28,7 +28,7 @@ const products = [
     name: "Flower Subscription",
     desc: "Подписка на цветы",
     price: 35000,
-    image: "images/flower3.jpeg",
+    image: "images/flower4.jpeg",
     type: "subscription"
   }
 {
@@ -36,7 +36,7 @@ const products = [
     name: "Flower Subscription",
     desc: "Подписка на цветы",
     price: 35000,
-    image: "images/flower3.jpeg",
+    image: "images/flower5.jpeg",
     type: "subscription"
   }
 {
@@ -44,7 +44,7 @@ const products = [
     name: "Flower Subscription",
     desc: "Подписка на цветы",
     price: 35000,
-    image: "images/flower3.jpeg",
+    image: "images/flower6.jpeg",
     type: "subscription"
   }
 {
@@ -52,7 +52,7 @@ const products = [
     name: "Flower Subscription",
     desc: "Подписка на цветы",
     price: 35000,
-    image: "images/flower3.jpeg",
+    image: "images/flower7.jpeg",
     type: "subscription"
   }
 {
@@ -60,7 +60,7 @@ const products = [
     name: "Flower Subscription",
     desc: "Подписка на цветы",
     price: 35000,
-    image: "images/flower3.jpeg",
+    image: "images/flower8.jpeg",
     type: "subscription"
   }
 {
@@ -68,7 +68,7 @@ const products = [
     name: "Flower Subscription",
     desc: "Подписка на цветы",
     price: 35000,
-    image: "images/flower3.jpeg",
+    image: "images/flower9.jpeg",
     type: "subscription"
   }
 {
@@ -76,7 +76,7 @@ const products = [
     name: "Flower Subscription",
     desc: "Подписка на цветы",
     price: 35000,
-    image: "images/flower3.jpeg",
+    image: "images/flower10.jpeg",
     type: "subscription"
   }
 ];
