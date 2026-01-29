@@ -4,7 +4,7 @@ const products = [
     name: "Rose Box Mini",
     desc: "Нежная композиция",
     price: 12000,
-    image: "images/flower 1.jpg",
+    image: "images/flower 1.jpeg",
     type: "box"
   },
   {
@@ -12,7 +12,7 @@ const products = [
     name: "LUNO Signature",
     desc: "Авторский бокс",
     price: 18000,
-    image: "images/flower 2.jpg",
+    image: "images/flower 2.jpeg",
     type: "box"
   },
   {
@@ -20,7 +20,7 @@ const products = [
     name: "Flower Subscription",
     desc: "Подписка на цветы",
     price: 35000,
-    image: "images/flower 3.jpg",
+    image: "images/flower 3.jpeg",
     type: "subscription"
   }
 ];
