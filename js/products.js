@@ -23,4 +23,60 @@ const products = [
     image: "images/flower3.jpeg",
     type: "subscription"
   }
+  {
+    id: 4,
+    name: "Flower Subscription",
+    desc: "Подписка на цветы",
+    price: 35000,
+    image: "images/flower3.jpeg",
+    type: "subscription"
+  }
+{
+    id: 5,
+    name: "Flower Subscription",
+    desc: "Подписка на цветы",
+    price: 35000,
+    image: "images/flower3.jpeg",
+    type: "subscription"
+  }
+{
+    id: 6,
+    name: "Flower Subscription",
+    desc: "Подписка на цветы",
+    price: 35000,
+    image: "images/flower3.jpeg",
+    type: "subscription"
+  }
+{
+    id: 7,
+    name: "Flower Subscription",
+    desc: "Подписка на цветы",
+    price: 35000,
+    image: "images/flower3.jpeg",
+    type: "subscription"
+  }
+{
+    id: 8,
+    name: "Flower Subscription",
+    desc: "Подписка на цветы",
+    price: 35000,
+    image: "images/flower3.jpeg",
+    type: "subscription"
+  }
+{
+    id: 9,
+    name: "Flower Subscription",
+    desc: "Подписка на цветы",
+    price: 35000,
+    image: "images/flower3.jpeg",
+    type: "subscription"
+  }
+{
+    id: 10,
+    name: "Flower Subscription",
+    desc: "Подписка на цветы",
+    price: 35000,
+    image: "images/flower3.jpeg",
+    type: "subscription"
+  }
 ];
