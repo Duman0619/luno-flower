@@ -12,7 +12,9 @@ function renderProducts(list) {
       <h3>${p.name}</h3>
       <p>${p.desc}</p>
       <span class="price">${p.price.toLocaleString()} ₸</span>
-      <a class="btn" href="https://wa.me/77087514281?text=Хочу заказать ${p.name}">Заказать</a>
+      <a class="btn" href="https://wa.me/77087514281?text=Хочу заказать ${p.name}">
+        Заказать
+      </a>
     `;
 
     catalog.appendChild(card);
@@ -20,4 +22,3 @@ function renderProducts(list) {
 }
 
 renderProducts(products);
-
