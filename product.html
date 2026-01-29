@@ -1,1 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>LUNO FLOWER | Товар</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- OpenGraph for WhatsApp preview -->
+<meta property="og:title" content="LUNO FLOWER">
+<meta property="og:description" content="Заказать букет">
+<meta property="og:image" id="ogImage">
+<meta property="og:type" content="website">
+
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<div class="product-page" id="product"></div>
+
+<script src="js/products.js"></script>
+<script>
+const params = new URLSearchParams(window.location.search);
+const id = params.get('id');
+
+const product = products.find(p => p.id == id);
+
+if(product){
+  document.title = product.name + " | LUNO FLOWER";
+  document.getElementById('ogImage').setAttribute("content", product.image);
+
+  document.getElementById('product').innerHTML = `
+    <div class="product-card">
+      <img src="${product.image}">
+      <h1>${product.name}</h1>
+      <p>${product.desc}</p>
+      <strong>${product.price} ₸</strong>
+
+      <a class="whatsapp-btn" target="_blank"
+         href="https://wa.me/77087514281?text=Хочу заказать: ${product.name}%0AЦена: ${product.price} ₸%0AФото: ${product.image}%0AСсылка: ${window.location.href}">
+         📲 Заказать в WhatsApp
+      </a>
+    </div>
+  `;
+}
+</script>
+
+</body>
+</html>
 
