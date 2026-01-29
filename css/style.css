@@ -68,6 +68,21 @@ body{
   margin-bottom:15px;
 }
 
+/* CONTROLS */
+.controls{
+  display:flex;
+  gap:10px;
+  margin-bottom:15px;
+}
+
+.controls select{
+  flex:1;
+  padding:10px;
+  border-radius:10px;
+  border:1px solid #ddd;
+  font-size:14px;
+}
+
 /* CATALOG */
 .catalog{
   display:flex;
@@ -113,4 +128,3 @@ body{
   color:#999;
   margin:35px 0 15px;
 }
-
