@@ -9,7 +9,9 @@ function renderProducts(list) {
 
   list.forEach(p => {
     const card = document.createElement("div");
-    card.className = "card";
+card.className = "card";
+card.id = `product-${p.id}`;
+
 
     card.innerHTML = `
       <img src="${p.image}">
