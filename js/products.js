@@ -81,9 +81,9 @@ const products = [
   },
   {
     id: 11,
-    name: "Spring Kiss",
-    desc: "Весенний поцелуй",
-    price: 14500,
+    name: "Love Dianthus",
+    desc: "Цветок любви",
+    price: 12500,
     image: "images/flower11.jpeg",
     type: "bouquet"
   },
