@@ -49,9 +49,9 @@ const products = [
   },
   {
     id: 7,
-    name: "Golden Sun",
-    desc: "Тёплый солнечный букет",
-    price: 19000,
+    name: "Пионовидный бум",
+    desc: "Тёплый букет",
+    price: 10900,
     image: "images/flower7.jpg",
     type: "bouquet"
   },
