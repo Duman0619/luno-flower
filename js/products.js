@@ -41,8 +41,8 @@ const products = [
   },
   {
     id: 6,
-    name: "Duman Znaet",
-    desc: "Голубои",
+    name: "Surprise Bag",
+    desc: "Цветочный сюрприз",
     price: 667,
     image: "images/flower6.jpeg",
     type: "bouquet"
@@ -89,72 +89,72 @@ const products = [
   },
   {
     id: 12,
-    name: "1",
-    desc: "Бархатные розы",
-    price: 20000,
+    name: "Pink Couture",
+    desc: "Нежность утра",
+    price: 12300,
     image: "images/flower12.jpeg",
     type: "bouquet"
   },
   {
     id: 13,
-    name: "2",
-    desc: "Воздушная композиция",
-    price: 16500,
+    name: "Pink Love Box",
+    desc: "Коробка любви",
+    price: 11500,
     image: "images/flower13.jpeg",
-    type: "bouquet"
+    type: "box"
   },
   {
     id: 14,
-    name: "3",
-    desc: "Цветочная коробка",
-    price: 23000,
+    name: "Crystal White",
+    desc: "Белая нежность",
+    price: 11500,
     image: "images/flower14.jpeg",
-    type: "box"
+    type: "bouquet"
   },
   {
     id: 15,
-    name: "4",
-    desc: "Премиум коробка",
-    price: 28000,
+    name: "Blush Luxury",
+    desc: "Розово-белое облако",
+    price: 11500,
     image: "images/flower15.jpeg",
-    type: "box"
+    type: "bouquet"
   },
   {
     id: 16,
-    name: "5",
-    desc: "Романтический букет",
-    price: 18500,
+    name: "Silk Pink",
+    desc: "Пудровая нежность",
+    price: 10900,
     image: "images/flower16.jpeg",
     type: "bouquet"
   },
   {
     id: 17,
-    name: "6",
-    desc: "Чистая любовь",
-    price: 19500,
+    name: "White Cloud Hit",
+    desc: "Нежный шёлк",
+    price: 9900,
     image: "images/flower17.jpeg",
     type: "bouquet"
   },
   {
     id: 18,
-    name: "7",
-    desc: "Кристальная свежесть",
-    price: 20500,
+    name: "Compliment Collection",
+    desc: "Тёплая нежность",
+    price: 9900,
     image: "images/flower18.jpeg",
     type: "bouquet"
   },
   {
     id: 19,
-    name: "8",
-    desc: "Нежный бокс",
+    name: "Pink Reverie",
+    desc: "Цветочное счастье",
     price: 24000,
     image: "images/flower19.jpeg",
     type: "box"
   },
   {
     id: 20,
-    name: "9",
-    desc: "Большая композиция",
+    name: "Powdered Caress",
+    desc: "Мягкое счастье",
     price: 32000,
     image: "images/flower20.jpeg",
     type: "box"
