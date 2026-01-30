@@ -1,81 +1,81 @@
 const products = [
   {
     id: 1,
-    name: "Rose Box Mini",
-    desc: "Нежная композиция в коробке",
-    price: 12000,
+    name: "White O'hara",
+    desc: "Пионовидные розы",
+    price: 8500,
     image: "images/flower1.jpeg",
-    type: "box"
+    type: "bouquet"
   },
   {
     id: 2,
-    name: "LUNO Signature",
-    desc: "Авторский бокс от флориста",
-    price: 18000,
+    name: "Pink Couture",
+    desc: "Пионовидные розы",
+    price: 12500,
     image: "images/flower2.jpeg",
-    type: "box"
+    type: "bouquet"
   },
   {
     id: 3,
-    name: "Flower Subscription",
-    desc: "Подписка на цветы",
-    price: 35000,
+    name: "Cloud Eustoma",
+    desc: "Японская роза",
+    price: 9500,
     image: "images/flower3.jpeg",
-    type: "subscription"
+    type: "bouquet"
   },
   {
     id: 4,
-    name: "White Pearl",
-    desc: "Белоснежный букет",
-    price: 15000,
+    name: "White Silence",
+    desc: "Гортензия + белый фаленопсис",
+    price: 7500,
     image: "images/flower4.jpeg",
     type: "bouquet"
   },
   {
     id: 5,
-    name: "Pink Dream",
-    desc: "Розовая нежность",
-    price: 17000,
+    name: "Luxe Bloom",
+    desc: "Гортензия + эустома",
+    price: 7500,
     image: "images/flower5.jpeg",
     type: "bouquet"
   },
   {
     id: 6,
-    name: "Blue Sky",
-    desc: "Голубая композиция",
-    price: 16000,
+    name: "Duman Znaet",
+    desc: "Голубои",
+    price: 667,
     image: "images/flower6.jpeg",
     type: "bouquet"
   },
   {
     id: 7,
-    name: "Пионовидный бум",
-    desc: "Тёплый букет",
+    name: "Crimson Love",
+    desc: "Пионовидный бум",
     price: 10900,
     image: "images/flower7.jpeg",
     type: "bouquet"
   },
   {
     id: 8,
-    name: "Lavender Mood",
-    desc: "Лавандовая атмосфера",
-    price: 17500,
+    name: "Sweet Bloom",
+    desc: "Воздушный поцелуй",
+    price: 12500,
     image: "images/flower8.jpeg",
     type: "bouquet"
   },
   {
     id: 9,
-    name: "Royal Red",
-    desc: "Королевские красные розы",
-    price: 22000,
+    name: "Lila Cloud",
+    desc: "Цветочный шёлк",
+    price: 12500,
     image: "images/flower9.jpeg",
     type: "bouquet"
   },
   {
     id: 10,
-    name: "Snow Queen",
-    desc: "Холодная элегантность",
-    price: 21000,
+    name: "Blue Pearl",
+    desc: "Голубое облако",
+    price: 12500,
     image: "images/flower10.jpeg",
     type: "bouquet"
   },
