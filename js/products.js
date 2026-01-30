@@ -52,7 +52,7 @@ const products = [
     name: "Пионовидный бум",
     desc: "Тёплый букет",
     price: 10900,
-    image: "images/flower7.jpg",
+    image: "images/flower7.jpeg",
     type: "bouquet"
   },
   {
@@ -60,7 +60,7 @@ const products = [
     name: "Lavender Mood",
     desc: "Лавандовая атмосфера",
     price: 17500,
-    image: "images/flower8.jpg",
+    image: "images/flower8.jpeg",
     type: "bouquet"
   },
   {
@@ -68,7 +68,7 @@ const products = [
     name: "Royal Red",
     desc: "Королевские красные розы",
     price: 22000,
-    image: "images/flower9.jpg",
+    image: "images/flower9.jpeg",
     type: "bouquet"
   },
   {
@@ -76,7 +76,7 @@ const products = [
     name: "Snow Queen",
     desc: "Холодная элегантность",
     price: 21000,
-    image: "images/flower10.jpg",
+    image: "images/flower10.jpeg",
     type: "bouquet"
   },
   {
@@ -84,7 +84,7 @@ const products = [
     name: "Spring Kiss",
     desc: "Весенний поцелуй",
     price: 14500,
-    image: "images/flower11.jpg",
+    image: "images/flower11.jpeg",
     type: "bouquet"
   },
   {
@@ -92,7 +92,7 @@ const products = [
     name: "Velvet Rose",
     desc: "Бархатные розы",
     price: 20000,
-    image: "images/flower12.jpg",
+    image: "images/flower12.jpeg",
     type: "bouquet"
   },
   {
@@ -100,7 +100,7 @@ const products = [
     name: "Soft Cloud",
     desc: "Воздушная композиция",
     price: 16500,
-    image: "images/flower13.jpg",
+    image: "images/flower13.jpeg",
     type: "bouquet"
   },
   {
@@ -108,7 +108,7 @@ const products = [
     name: "Bloom Box",
     desc: "Цветочная коробка",
     price: 23000,
-    image: "images/flower14.jpg",
+    image: "images/flower14.jpeg",
     type: "box"
   },
   {
@@ -116,7 +116,7 @@ const products = [
     name: "LUNO Premium Box",
     desc: "Премиум коробка",
     price: 28000,
-    image: "images/flower15.jpg",
+    image: "images/flower15.jpeg",
     type: "box"
   },
   {
@@ -124,7 +124,7 @@ const products = [
     name: "Romantic Touch",
     desc: "Романтический букет",
     price: 18500,
-    image: "images/flower16.jpg",
+    image: "images/flower16.jpeg",
     type: "bouquet"
   },
   {
@@ -132,7 +132,7 @@ const products = [
     name: "Pure Love",
     desc: "Чистая любовь",
     price: 19500,
-    image: "images/flower17.jpg",
+    image: "images/flower17.jpeg",
     type: "bouquet"
   },
   {
@@ -140,7 +140,7 @@ const products = [
     name: "Crystal Bloom",
     desc: "Кристальная свежесть",
     price: 20500,
-    image: "images/flower18.jpg",
+    image: "images/flower18.jpeg",
     type: "bouquet"
   },
   {
@@ -148,7 +148,7 @@ const products = [
     name: "Soft Pink Box",
     desc: "Нежный бокс",
     price: 24000,
-    image: "images/flower19.jpg",
+    image: "images/flower19.jpeg",
     type: "box"
   },
   {
@@ -156,7 +156,7 @@ const products = [
     name: "LUNO Grand",
     desc: "Большая композиция",
     price: 32000,
-    image: "images/flower20.jpg",
+    image: "images/flower20.jpeg",
     type: "box"
   }
 ];
