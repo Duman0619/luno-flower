@@ -43,7 +43,7 @@ const products = [
     id: 6,
     name: "Surprise Bag",
     desc: "Цветочный сюрприз",
-    price: 667,
+    price: 9900,
     image: "images/flower6.jpeg",
     type: "bouquet"
   },
@@ -147,7 +147,7 @@ const products = [
     id: 19,
     name: "Pink Reverie",
     desc: "Цветочное счастье",
-    price: 24000,
+    price: 14490,
     image: "images/flower19.jpeg",
     type: "box"
   },
@@ -155,7 +155,7 @@ const products = [
     id: 20,
     name: "Powdered Caress",
     desc: "Мягкое счастье",
-    price: 32000,
+    price: 12990,
     image: "images/flower20.jpeg",
     type: "box"
   }
